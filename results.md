@@ -22,6 +22,8 @@ Threats to Validity:
 
 -Our data points were limited which may have slightly affected the accuracy of the data. 
 
+Observations:
+
 Graph 1: Logical v/s syntactical: Bugs solved v/s unsolved (per language)
 <img width="620" alt="plot" src="https://user-images.githubusercontent.com/69598394/92062911-c920b600-ed67-11ea-91d8-da474a53a6fa.png">
 
