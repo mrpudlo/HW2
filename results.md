@@ -1,6 +1,7 @@
 The results:
 
 Number of participants familiar with each language:
+
 Go: 2
 
 SQL: 6
@@ -10,7 +11,7 @@ Ruby: 4
 Python: 1
 
 Graph 1: Logical v/s syntactical: Bugs solved v/s unsolved (per language)
-<img width="617" alt="screen_shot_2020-09-02_at_5 48 51_pm" src="https://user-images.githubusercontent.com/69598394/92049140-953d9480-ed57-11ea-818c-20691b09b3e6.png">
+<img width="620" alt="screen_shot_2020-09-02_at_6 36 04_pm" src="https://user-images.githubusercontent.com/69598394/92051862-1e09ff80-ed5b-11ea-9bfe-41303c0bc846.png">
 
 Graph 2: Familiarity w language v/s Bugs solved
 ![bugs_fixed_v_s_language_expertise](https://user-images.githubusercontent.com/69598394/92049399-55c37800-ed58-11ea-86b1-472bc455f7d3.png)
