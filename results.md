@@ -40,7 +40,7 @@ Conclusions:
 
 -All of the bugs were solved except a couple in the Ruby code.
 
--All bugs were identified and solved in less than 20 seconds.
+-All bugs were identified and solved in less than 20 Minutes.
 
 Group Members: 
 
