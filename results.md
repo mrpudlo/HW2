@@ -10,6 +10,18 @@ Ruby: 4
 
 Python: 1
 
+Methods:
+
+-Implemented Game of Life in multiple languages.
+
+-Had SQL, Go, and Ruby codes evaluated by asking testers to go through with a form.
+
+-Noted the observation in other sheets and had a correlation between them for the graphs.
+
+Threats to Validity:
+
+-Our data points were limited which may have slightly affected the accuracy of the data. 
+
 Graph 1: Logical v/s syntactical: Bugs solved v/s unsolved (per language)
 <img width="620" alt="screen_shot_2020-09-02_at_6 36 04_pm" src="https://user-images.githubusercontent.com/69598394/92051862-1e09ff80-ed5b-11ea-9bfe-41303c0bc846.png">
 
