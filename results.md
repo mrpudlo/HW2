@@ -34,6 +34,14 @@ Graph 2: Familiarity w language v/s Bugs solved
 Graph 3: Time stamps of bugs solved per tester
 ![_b_time_taken_by_each_participant_to_solve_bugs__b_](https://user-images.githubusercontent.com/69598394/92049531-b5ba1e80-ed58-11ea-8809-bc3116590ede.png)
 
+Conclusions:
+
+-The comments were helpful for the testers to understand and follow the codes and made it easier to see whatever was wrong. 
+
+-All of the bugs were solved except a couple in the Ruby code.
+
+-All bugs were identified and solved in less than 20 seconds.
+
 Group Members: 
 
 Abhi Joshi
